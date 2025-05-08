@@ -1,0 +1,54 @@
+.hyrje{
+    text-align: center;
+    border-color: lightblue;
+    margin: 20px;
+    background-color: aliceblue;
+padding: 30px;
+border-style: double;
+border-radius: 10px;
+
+}
+.h2{
+    text-align: center;
+}
+
+.vazhdim{
+    border-color: lightblue;
+    margin: 20px;
+    background-color: aliceblue;
+    padding: 30px;
+    border-style: double;
+    border-radius: 10px;
+} 
+.p{
+    background-color: green;
+}
+
+.lorem{
+    border-color: lightblue;
+    margin: 20px;
+    background-color: aliceblue;
+    padding: 30 px;
+    border-style: double;
+    border-radius: 10 px;
+}
+
+.button{
+    --color:#fff;
+    --background:#67ff5f;
+    --height: 41px;
+    --width:160px;
+    --icon:#fff;
+    padding: 0;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+    border:none;
+    outline: none;
+    background: none;
+    -webkit-appearance: none;
+    -webkit-tap-highlight-color: transparent;
+    width: var(--width);
+    letter-spacing: 0.50px;
+    
+}
