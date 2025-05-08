@@ -1,6 +1,6 @@
 .hyrje{
     text-align: center;
-    border-color: lightblue;
+    border: color #6593f6;
     margin: 20px;
     background-color: aliceblue;
 padding: 30px;
@@ -51,4 +51,21 @@ border-radius: 10px;
     width: var(--width);
     letter-spacing: 0.50px;
     
+}
+
+.ipsum{
+    border-color: lightblue;
+    margin: 20 px;
+    background-color: aliceblue;
+    padding: 30 px;
+    border-radius: 10 px;
+    border-style: double;
+}
+.lorrem{
+    border-color: lightblue;
+    margin: 20 px;
+    background-color: aliceblue;
+    padding: 30 px;
+    border-radius: 10px;
+    border-style: double;
 }
